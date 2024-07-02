@@ -11,17 +11,8 @@ Skills:  NODE/ REACT / JS/TAILWIND / HTML / CSS
 - 💬 Ask me about Front-end  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MdJowelAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdjowelahmed.sarker/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdJowelAhmed)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MdJowelAhmed)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdJowelAhmed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MdJowelAhmed)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MdJowelAhmed&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/MdJowelAhmed/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MdJowelAhmed)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/MdJowelAhmed)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJowelAhmed&show_icons=true)  
