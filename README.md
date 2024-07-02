@@ -4,6 +4,15 @@
 
 Junior web developer with experience in HTML, CSS, JavaScript, and React. Passionate about building interactive and responsive user interfaces
 
+
+
+- 🔭 I’m currently working on My Projects 
+- 🌱 I’m currently learning Next.js 
+- 💬 Ask me about Front-end  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdJowelAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdjowelahmed.sarker/)  
+
 Skills: 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -14,10 +23,3 @@ Skills:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
-
-- 🔭 I’m currently working on My Projects 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about Front-end  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdJowelAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdjowelahmed.sarker/)  
