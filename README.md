@@ -2,15 +2,17 @@
 ### Web Developer
 ![Web Developer](https://i.ibb.co/WPKy2bh/Blue-Modern-Photo-Technology-You-Tube-Banner.png)
 
-### Junior web developer with experience in HTML, CSS, JavaScript, and React. Passionate about building interactive and responsive user interfaces
+#### Junior web developer with experience in HTML, CSS, JavaScript, and React. Passionate about building interactive and responsive user interfaces
 
 - 🔭 I’m currently working on My Projects 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Front-end  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MdJowelAhmed)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdJowelAhmed)](https://github.com/anuraghazra/github-readme-stats)
-social links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdJowelAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdjowelahmed.sarker/)  
+###social links
+<p>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdJowelAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdjowelahmed.sarker/) 
+</p> 
 
 Skills: 
 <p>
