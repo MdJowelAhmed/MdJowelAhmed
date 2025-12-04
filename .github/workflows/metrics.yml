@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}] # প্রতি 12 ঘন্টায় আপডেট হবে
+  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PROFILE }}   # <-- FIXED
           user: MdJowelAhmed
           base: header, repositories, activity, community
           config_timezone: Asia/Dhaka
