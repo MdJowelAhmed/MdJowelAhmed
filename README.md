@@ -28,3 +28,5 @@ Skills:
   <img alt="NextJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" width="70" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="40" />
 </p>
+## 📊 GitHub Analytics
+![GitHub Metrics](./metrics.svg)
