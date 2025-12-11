@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Md Jowel Ahmed
 ### Web Developer
 
-![Banner](https://i.ibb.co.com/bFcjwFZ/Blue-Modern-Photo-Technology-github-Banner.png)
+![Banner](https://i.ibb.co.com/JqDW6q4/Blue-Modern-Photo-Technology-github-Banner.png)
 
 #### Junior web developer with experience in HTML, CSS, JavaScript, and React. Passionate about building interactive and responsive user interfaces.
 
