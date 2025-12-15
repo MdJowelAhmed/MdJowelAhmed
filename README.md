@@ -5,8 +5,8 @@
 
 #### Junior web developer with experience in HTML, CSS, JavaScript, and React. Passionate about building interactive and responsive user interfaces.
 
-- 🔭 I’m currently working on My Projects  
-- 🌱 I’m currently learning Next.js  
+- 🔭 I’m currently working on My Company Project  
+- 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me about Front-end Development
 
 ---
