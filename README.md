@@ -6,6 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=45B8D8&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;React+%26+Next.js+Enthusiast;Learning+PostgreSQL+%26+Supabase;Building+Interactive+UIs" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=for-the-badge" alt="Open to Work"/>
+<a href="https://your-resume-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-45B8D8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
+
 </div>
 
 ---
@@ -15,7 +22,23 @@
 - 🔭 Currently working on **My Company Project**
 - 🌱 Currently learning **PostgreSQL** & **Supabase**
 - 💬 Ask me about **Front-end Development**
+- 📫 Reach me at: **your-email@example.com**
 - ⚡ Fun fact: I enjoy turning tricky UI bugs into clean, working features
+
+---
+
+### 💼 Featured Projects
+
+<p align="left">
+<a href="https://github.com/MdJowelAhmed/your-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdJowelAhmed&repo=your-repo-1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/MdJowelAhmed/your-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdJowelAhmed&repo=your-repo-2&theme=tokyonight&hide_border=true" />
+</a>
+</p>
+
+> ℹ️ Upore `your-repo-1` / `your-repo-2` er jaygay tomar actual repo names bosao — eta automatically stars, forks, language dekhabe.
 
 ---
 
@@ -79,6 +102,28 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdJowelAhmed&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MdJowelAhmed&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MdJowelAhmed/MdJowelAhmed/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+> ℹ️ Ei snake animation kaj korার jonno tomar profile repo te ekta GitHub Action setup korte hobe ([Platane/snk](https://github.com/Platane/snk) — README e steps deওয়া ache). Setup na thakle eta broken image dekhabe, tai age Action run kore SVG generate koro tarpor push koro.
 
 ---
 
