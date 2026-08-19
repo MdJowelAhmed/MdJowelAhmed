@@ -163,8 +163,6 @@ A passionate and results-driven **Frontend Developer** with **1.5+ years** of pr
 
 </div>
 
-> ℹ️ Ei snake animation kaj korar jonno tomar profile repo te ekta GitHub Action setup korte hobe ([Platane/snk](https://github.com/Platane/snk) — README e steps deya ache). Setup na thakle eta broken image dekhabe, tai age Action run kore SVG generate koro tarpor push koro.
-
 ---
 
 <div align="center">
