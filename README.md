@@ -4,131 +4,104 @@
 
 <h1>Hi there, I'm Md Jowel Ahmed 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=45B8D8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Developer;TypeScript+%26+MERN+Stack;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=45B8D8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Developer;TypeScript+%26+MERN+Stack;Building+Scalable+Web+Applications" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://drive.google.com/file/d/1SLSFfKlttfXrRuQt0nsFhX3ipineRDU2/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-45B8D8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+<a href="https://portfolio-jowel.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-45B8D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://portfolio-jowel.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://drive.google.com/file/d/1SLSFfKlttfXrRuQt0nsFhX3ipineRDU2/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-A passionate **Frontend Developer** with **1.5+ years of professional experience** building scalable, responsive, and high-performance web applications. I specialize in **React, Next.js, TypeScript, and the MERN stack**, with hands-on experience in RESTful API integration, state management, reusable component architecture, authentication, dashboards, and interactive user interfaces.
+I'm a **Frontend Developer** with **1.5+ years of professional experience** building scalable, responsive, and high-performance web applications.
 
-- 💼 Currently working as a **Frontend Developer @ Sparktech Agency**
-- 🏗️ Building scalable frontend architectures for client-driven SaaS applications
-- ⚛️ Specialized in **React, Next.js, TypeScript, and modern frontend development**
-- 🧩 Experienced with **Redux Toolkit, RTK Query, TanStack Query, and reusable component systems**
-- 🎨 Experienced in converting **Figma designs into responsive, production-ready interfaces**
-- 🧪 Working with **Jest, Vitest, and React Testing Library** for frontend testing
-- 🌱 Currently learning **PostgreSQL & Supabase**
-- 💬 Ask me about **React, Next.js, TypeScript & Frontend Architecture**
-- 📫 Email: **mdjowelahmed924@gmail.com**
-- 📱 WhatsApp: **+8801518792559**
-- 📍 Based in **Dhaka, Bangladesh**
+I specialize in **React, Next.js, TypeScript, and the MERN stack**, with hands-on experience in RESTful API integration, state management, reusable component architecture, authentication, dashboards, complex forms, and interactive user interfaces.
 
----
-
-### 🧳 Work Experience
-
-**Frontend Developer** — Sparktech Agency &nbsp;|&nbsp; *Feb 2025 – Present*
-
-- Developed and optimized responsive web applications using **Next.js, React, and TypeScript**
-- Translated Figma designs into reusable and scalable UI components using **Shadcn UI and Tailwind CSS**
-- Integrated complex **RESTful APIs** and managed application state using **Redux Toolkit, RTK Query, and TanStack Query**
-- Built reusable frontend architectures and component patterns for client-driven SaaS applications
-- Implemented authentication, role-based access control, dynamic forms, dashboards, and interactive UI features
-- Worked with **React Hook Form, Zod, and reusable validation patterns** for complex forms
-- Improved application performance, responsiveness, accessibility, and SEO
-- Collaborated closely with backend developers, designers, and project managers in an Agile environment
-- Participated in code reviews, debugging, testing, and production deployments
+* 💼 **Frontend Developer @ Sparktech Agency**
+* ⚛️ Specialized in **React, Next.js & TypeScript**
+* 🏗️ Experienced in building scalable frontend architectures for SaaS applications
+* 🎨 Experienced in converting **Figma designs into production-ready interfaces**
+* 🔄 Experienced with **Redux Toolkit, RTK Query & TanStack Query**
+* 🧩 Building reusable component systems with **Shadcn UI & Tailwind CSS**
+* 🧪 Writing frontend tests with **Vitest, Jest & React Testing Library**
+* 🌱 Currently learning **PostgreSQL & Supabase**
+* 💬 Ask me about **React, Next.js, TypeScript & Frontend Architecture**
+* 📫 **[mdjowelahmed924@gmail.com](mailto:mdjowelahmed924@gmail.com)**
+* 📱 **+8801518792559**
+* 📍 **Dhaka, Bangladesh**
 
 ---
 
-### 💼 Featured Projects
+## 🧳 Work Experience
 
-#### 🧘 YogaWithJen
-*Client Project*
+### Frontend Developer
 
-- Built a category-based video browsing system with interactive daily challenges
-- Implemented locked/unlocked video logic based on user progress and subscription status
-- Developed community features including video sharing, likes, and comments
-- Built a secure role-based admin dashboard for managing videos, categories, challenges, and posts
-- Integrated video streaming and media management functionality
-- Developed responsive interfaces optimized for desktop and mobile devices
+**Sparktech Agency**   |   *Feb 2025 – Present*
 
-#### 🐦 ThePigeonHub
-*Client Project*
-
-- Built a dynamic pigeon pedigree generation system supporting multiple generations
-- Implemented subscription-based access with different pedigree generation limits
-- Developed automated sibling and half-sibling relationship detection
-- Built a complete pigeon management system for breeders
-- Implemented CRUD functionality for pigeon records, race results, health documents, and images
-- Added professional PDF pedigree export functionality
-- Developed responsive admin and user interfaces using modern React/Next.js architecture
-
-#### 🎟️ Ticket Booking Platform
-*Client Project*
-
-- Implemented a real-time visual seat map allowing users to select and book available seats
-- Developed dynamic ticket pricing based on demand and booking timing
-- Added promotional offers and cashback functionality
-- Generated unique QR-code tickets instantly after successful bookings
-- Built a responsive booking experience optimized for different screen sizes
-
-> 🔗 More projects, live demos, case studies and videos are available on my portfolio.
+* Developed and optimized responsive web applications using **Next.js, React, and TypeScript**
+* Translated Figma designs into reusable and scalable UI components using **Shadcn UI and Tailwind CSS**
+* Integrated complex **RESTful APIs** and managed application state using **Redux Toolkit, RTK Query, and TanStack Query**
+* Built reusable frontend architectures and component patterns for client-driven SaaS applications
+* Implemented authentication, role-based access control, dashboards, dynamic forms, and interactive UI features
+* Developed complex forms using **React Hook Form and Zod**
+* Improved application performance, responsiveness, accessibility, and SEO
+* Worked with **SSR, SSG, and ISR** in Next.js applications
+* Collaborated with backend developers, designers, and project managers in an Agile environment
+* Participated in debugging, code reviews, testing, and production deployments
 
 ---
 
-### 🌐 Connect With Me
+## 💼 Featured Projects
 
-<p align="left">
+### 🧘 YogaWithJen
 
-<a href="https://portfolio-jowel.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-45B8D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>&nbsp;
+**Client Project**
 
-<a href="https://github.com/MdJowelAhmed" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
+* Built a category-based video browsing system with an interactive daily challenge experience
+* Implemented locked and unlocked video logic based on user progress and subscription status
+* Developed community features including video sharing, likes, and comments
+* Built a secure role-based admin dashboard for managing videos, categories, challenges, and posts
+* Integrated video streaming and media management functionality
+* Developed responsive interfaces optimized for desktop and mobile devices
 
-<a href="https://www.linkedin.com/in/md-jowel-ahmed20" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
+### 🐦 ThePigeonHub
 
-<a href="https://www.facebook.com/mdjowelahmed.sarker/" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>&nbsp;
+**Client Project**
 
-<a href="mailto:mdjowelahmed924@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+* Built a dynamic pigeon pedigree generation system supporting multiple generations
+* Implemented subscription-based access with different pedigree generation limits
+* Developed automated sibling and half-sibling relationship detection
+* Built a complete pigeon management system for breeders
+* Implemented CRUD functionality for pigeon records, race results, health documents, and images
+* Added professional PDF pedigree export functionality
+* Developed responsive admin and user interfaces using modern React and Next.js architecture
 
-</p>
+### 🎟️ Ticket Booking Platform
+
+**Client Project**
+
+* Implemented a real-time visual seat map allowing users to select and book available seats
+* Developed dynamic ticket pricing based on demand and booking timing
+* Added promotional offers and cashback functionality
+* Generated unique QR-code tickets after successful bookings
+* Built responsive booking experiences optimized for different screen sizes
+
+> 🔗 More projects, live demos, case studies, and project videos are available on my portfolio.
 
 ---
 
-### 🎓 Education & Certificates
+## 🛠 Tech Stack
 
-- **Undergraduate Studies in Bachelor of Science** *(Discontinued)* — Chandina Redwan Ahmed College &nbsp;|&nbsp; 2021 – 2024
-- **Complete Web Development with Jhankar Mahbub** — Programming Hero
-- **Communication Hacks** — 10 Minute School
-
----
-
-### 🛠 Tech Stack
-
-#### Frontend
+### Frontend
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -143,7 +116,7 @@ A passionate **Frontend Developer** with **1.5+ years of professional experience
   <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
-#### UI & Styling
+### UI & Styling
 
 <p>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -155,14 +128,14 @@ A passionate **Frontend Developer** with **1.5+ years of professional experience
   <img alt="React Flow" src="https://img.shields.io/badge/-React%20Flow-FF0072?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
-#### Forms & Validation
+### Forms & Validation
 
 <p>
   <img alt="React Hook Form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
   <img alt="Zod" src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
 </p>
 
-#### Backend & Database
+### Backend & Database
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -177,7 +150,7 @@ A passionate **Frontend Developer** with **1.5+ years of professional experience
   <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
 </p>
 
-#### Testing
+### Testing
 
 <p>
   <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
@@ -185,7 +158,7 @@ A passionate **Frontend Developer** with **1.5+ years of professional experience
   <img alt="React Testing Library" src="https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
 </p>
 
-#### Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -198,46 +171,55 @@ A passionate **Frontend Developer** with **1.5+ years of professional experience
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 
-
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdJowelAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJowelAhmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=MdJowelAhmed&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdJowelAhmed&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdJowelAhmed&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MdJowelAhmed&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<a href="https://portfolio-jowel.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-45B8D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/MdJowelAhmed" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-jowel-ahmed20" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.facebook.com/mdjowelahmed.sarker/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="mailto:mdjowelahmed924@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🎓 Education & Certificates
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MdJowelAhmed/MdJowelAhmed/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-
-</div>
+* **Undergraduate Studies in Bachelor of Science** *(Discontinued)* — Chandina Redwan Ahmed College  |  2021 – 2024
+* **Complete Web Development with Jhankar Mahbub** — Programming Hero
+* **Communication Hacks** — 10 Minute School
 
 ---
 
